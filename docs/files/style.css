@@ -1,5 +1,5 @@
 body{
-    background: linear-gradient(to bottom, #e359ff, #0098a3);
+    background: linear-gradient(90deg, #e359ff, #0098a3);
 }
 
 header{
@@ -10,7 +10,7 @@ footer{
     background:#003532;
 }
 
-footer h2, p, h3{
+footer h2,p,h3{
     padding: 1px;
 }
 
