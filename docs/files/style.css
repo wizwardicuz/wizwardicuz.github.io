@@ -1,3 +1,11 @@
 body{
     background: linear-gradient(-45deg, #e359ff, #0098a3);
 }
+
+header{
+    background-colour:#490046
+}
+
+footer{
+    background-colour:#003532
+}
