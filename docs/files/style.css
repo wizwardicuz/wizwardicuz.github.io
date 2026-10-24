@@ -72,20 +72,25 @@ footer h3 {
 
 h1 {
     font-size: 3em;
+    margin: 5px;
 }
 
 h2 {
     font-size: 2em;
+    margin: 5px;
 }
 
 h3 {
     font-size: 1.5em;
+    margin: 5px;
 }
 
 h4 {
     font-size: 1.2em;
+    margin: 5px;
 }
 
 p {
     font-size: 1em;
+    margin: 5px;
 }
