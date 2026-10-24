@@ -1,7 +1,4 @@
-*{
-    margin: 5px;
-    padding: 5px;
-}
+
 
 body {
     background: linear-gradient(180deg, #e359ff, #0098a3);
@@ -29,6 +26,8 @@ article {
     display: block;
     position: relative;
     top: 75px;
+    margin: 5px;
+    padding: 5px;
 }
 
 footer {
@@ -41,11 +40,15 @@ footer {
 .socialmedia {
     position: relative;
     top:auto;
+    margin: 5px;
+    padding: 5px;
 }
 
 .photo {
     display: inline-block;
     position: relative;
+    margin: 5px;
+    padding: 5px;
 }
 
 .about .caption {
@@ -53,6 +56,8 @@ footer {
     position: relative;
     bottom: 20px;
     left: 135px;
+    margin: 5px;
+    padding: 5px;
 }
 
 footer h2,p,h3 {
