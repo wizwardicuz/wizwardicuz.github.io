@@ -8,6 +8,7 @@ body{
 }
 
 header{
+    display: inline;
     background:#490046;
     position: fixed;
     top: 0;
