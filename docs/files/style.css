@@ -46,7 +46,7 @@ footer {
     display: inline-block;
     position: relative;
 }
-.about,.caption {
+.about .caption {
     display: inline-block;
     position: relative;
     bottom: 20px;
