@@ -3,7 +3,6 @@
     padding: 5px;
 }
 
-
 body{
     background: linear-gradient(180deg, #e359ff, #0098a3);
 }
@@ -20,6 +19,7 @@ article{
     position: relative;
     top:20px;
 }
+
 footer{
     position: relative;
     background:#003532;
@@ -35,6 +35,7 @@ footer{
     bottom: 20px;
     left: 135px;
 }
+
 footer h2,p,h3{
     padding: 1px;
 }
@@ -59,6 +60,7 @@ h3{
 h4{
     font-size: 1.2em;
 }
+
 p{
     font-size: 1em;
 }
