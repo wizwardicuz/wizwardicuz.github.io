@@ -14,11 +14,11 @@ header {
     padding: 5px;
 }
 
-nav:hover {
+nav a:hover {
     Color: #ff2cff;
 }
 
-nav:visited {
+nav a:visited {
     Color: #00445f;
 }
 
