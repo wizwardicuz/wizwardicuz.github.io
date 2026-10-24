@@ -33,7 +33,7 @@ footer {
     top:auto;
 }
 
-.about,photo {
+.photo {
     display: inline-block;
     position: relative;
 }
