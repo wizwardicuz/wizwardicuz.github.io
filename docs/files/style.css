@@ -3,11 +3,11 @@
     padding: 5px;
 }
 
-body{
+body {
     background: linear-gradient(180deg, #e359ff, #0098a3);
 }
 
-header{
+header {
     background:#490046;
     position: fixed;
     top: 0;
@@ -15,59 +15,59 @@ header{
     width: 100%;
 }
 
-article{
+article {
     display: block;
     position: relative;
-    top:100px;
+    top: 100px;
 }
 
-footer{
+footer {
     display: block;
     position: relative;
     background:#003532;
 }
 
-.socialmedia{
+.socialmedia {
     position: relative;
     top:auto;
 }
 
-.about img{
+.about img {
     display: inline-block;
     position: relative;
 }
-.aboutcaption{
+.aboutcaption {
     display: inline-block;
     position: relative;
     bottom: 20px;
     left: 135px;
 }
 
-footer h2,p,h3{
+footer h2,p,h3 {
     padding: 1px;
 }
 
-footer h3{
+footer h3 {
     font-size: 1.2em;
     padding: 5px;
 }
 
-h1{
+h1 {
     font-size: 3em;
 }
 
-h2{
+h2 {
     font-size: 2em;
 }
 
-h3{
+h3 {
     font-size: 1.5em;
 }
 
-h4{
+h4 {
     font-size: 1.2em;
 }
 
-p{
+p {
     font-size: 1em;
 }
