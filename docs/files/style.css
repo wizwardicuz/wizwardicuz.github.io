@@ -27,7 +27,7 @@ footer{
 
 .aboutphoto{
     position: relative;
-    top:auto;
+    top:-150px;
     left: 135px;
 }
 footer h2,p,h3{
