@@ -1,12 +1,15 @@
+*{
+    margin: 5px;
+    padding: 5px;
+}
+
+
 body{
     background: linear-gradient(180deg, #e359ff, #0098a3);
 }
 
 header{
     background:#490046;
-}
-
-nav{
     position: fixed;
     top: 0;
     width: 100%;
