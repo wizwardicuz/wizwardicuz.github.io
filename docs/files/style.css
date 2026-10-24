@@ -24,6 +24,7 @@ article {
 footer {
     display: block;
     position: relative;
+    top: 100px;
     background:#003532;
 }
 
@@ -44,12 +45,12 @@ footer {
 }
 
 footer h2,p,h3 {
-    padding: 1px;
+    margin: 1px;
 }
 
 footer h3 {
     font-size: 1.2em;
-    padding: 5px;
+    margin: 5px;
 }
 
 h1 {
