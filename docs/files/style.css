@@ -21,6 +21,7 @@ article{
     top:20px;
 }
 footer{
+    position: relative;
     background:#003532;
 }
 
