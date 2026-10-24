@@ -9,7 +9,7 @@ body {
 
 header {
     background:#490046;
-    colour: #fedeff;
+    color: #fedeff;
     position: fixed;
     top: 0;
     right: 5px;
@@ -18,12 +18,13 @@ header {
 }
 
 nav:hover {
-    Colour: #ff2cff;
+    Color: #ff2cff;
 }
 
 nav:visited {
-    Colour: #00445f;
+    Color: #00445f;
 }
+
 article {
     display: block;
     position: relative;
@@ -46,6 +47,7 @@ footer {
     display: inline-block;
     position: relative;
 }
+
 .about .caption {
     display: inline-block;
     position: relative;
