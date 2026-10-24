@@ -12,12 +12,13 @@ header{
     background:#490046;
     position: fixed;
     top: 0;
+    right: 5px;
     width: 100%;
 }
 
 article{
     position: relative;
-    top:auto;
+    top:200px;
 }
 footer{
     background:#003532;
@@ -28,7 +29,7 @@ footer{
     top:auto;
 }
 
-.aboutphoto{
+.aboutcaption{
     position: relative;
     bottom: 20px;
     left: 135px;
