@@ -33,11 +33,11 @@ footer {
     top:auto;
 }
 
-.about img {
+.about,photo {
     display: inline-block;
     position: relative;
 }
-.aboutcaption {
+.about,caption {
     display: inline-block;
     position: relative;
     bottom: 20px;
