@@ -25,6 +25,11 @@ footer{
     top:auto;
 }
 
+.aboutphoto{
+    position: relative;
+    top:auto;
+    left: 135px;
+}
 footer h2,p,h3{
     padding: 1px;
 }
