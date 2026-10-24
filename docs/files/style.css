@@ -10,6 +10,7 @@ header {
     right: 5px;
     width: 100%;
     z-index: 10;
+    margin: 5px;
 }
 
 nav:hover {
@@ -49,14 +50,14 @@ footer {
 .about .caption {
     display: inline-block;
     position: relative;
-    bottom: 20px;
+    bottom: 50px;
     left: 150px;
     margin: 5px;
 }
 
-.about .writing {
+.about .writing,.doctorwho,.photography,.else {
     position: relative;
-    bottom: 50px;
+    bottom: 25px;
 }
 
 footer h2,p,h3 {
