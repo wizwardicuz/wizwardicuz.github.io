@@ -6,8 +6,23 @@ header{
     background:#490046;
 }
 
+nav{
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+article{
+    position: relative;
+    top:auto;
+}
 footer{
     background:#003532;
+}
+
+.socialmedia{
+    position: relative;
+    top:auto;
 }
 
 footer h2,p,h3{
