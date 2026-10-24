@@ -9,6 +9,7 @@ body {
 
 header {
     background:#490046;
+    colour: #fedeff;
     position: fixed;
     top: 0;
     right: 5px;
@@ -16,6 +17,13 @@ header {
     z-index: 10;
 }
 
+nav:hover {
+    Colour: #ff2cff;
+}
+
+nav:visited {
+    Colour: #00445f;
+}
 article {
     display: block;
     position: relative;
