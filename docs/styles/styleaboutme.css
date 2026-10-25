@@ -6,7 +6,7 @@ article {
     padding: 5px;
 }
 
-.photo {
+.about .photo {
     display: inline-block;
     position: relative;
     border: 2px solid #bb88ff;
