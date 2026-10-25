@@ -23,6 +23,14 @@ nav a:visited {
     Color: #00445f;
 }
 
+article {
+    display: block;
+    position: relative;
+    top: 75px;
+    margin: 5px;
+    padding: 5px;
+}
+
 footer {
     display: block;
     position: relative;
