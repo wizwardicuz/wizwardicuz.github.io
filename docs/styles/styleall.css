@@ -1,85 +1,88 @@
 body {
     background: linear-gradient(180deg, #e359ff, #0098a3);
 }
+/** navigation bar **/
+    header {
+        background:#490046;
+        color: #fedeff;
+        position: fixed;
+        top: 0;
+        width: 100%;
+        z-index: 10;
+        padding: 5px;
+    }
 
-header {
-    background:#490046;
-    color: #fedeff;
-    position: fixed;
-    top: 0;
-    width: 100%;
-    z-index: 10;
-    padding: 5px;
-}
+    header h1, header nav a {
+        margin: 5px;
+    }
 
-header h1, header nav a {
-    margin: 5px;
-}
-nav a:hover, nav a:visited:hover {
-    Color: #ff2cff;
-}
+/** links **/
+    /** colour of links when hovered over **/
+    a[href]:hover, a[href]:visited:hover {
+        Color: #ff2cff;
+    }
 
-nav a:visited {
-    Color: #00445f;
-}
+    /** colour of links when visited **/
+    a[href]:visited {
+        Color: #00445f;
+    }
 
-article {
-    display: block;
-    position: relative;
-    top: 75px;
-    margin: 5px;
-    padding: 5px;
-}
+/** main content **/
+    article {
+        display: block;
+        position: relative;
+        top: 75px;
+        margin: 5px;
+        padding: 5px;
+    }
 
-footer {
-    display: block;
-    position: relative;
-    top: 100px;
-    background:#003532;
-}
+/** footer **/
+    footer {
+        display: block;
+        position: relative;
+        top: 100px;
+        background:#003532;
+    }
 
-.socialmedia {
-    position: relative;
-    top:auto;
-    margin: 5px;
-}
+    .socialmedia {
+        position: relative;
+        top:auto;
+        margin: 5px;
+    }
 
-.social-icon {
-    display: inline-block;
-    position: relative;
-    margin: 5px;
-}
+    .social-icon {
+        display: inline-block;
+        position: relative;
+        margin: 5px;
+    }
 
-footer h2,p,h3 {
-    margin: 1px;
-}
+    footer h3 {
+        font-size: 1.2em;
+        margin: 5px;
+    }
 
-footer h3 {
-    font-size: 1.2em;
-    margin: 5px;
-}
+/** typography **/
+    h1 {
+        font-size: 3em;
+        margin: 5px;
+    }
 
-h1 {
-    font-size: 3em;
-    margin: 5px;
-}
+    h2 {
+        font-size: 2em;
+        margin: 5px;
+    }
 
-h2 {
-    font-size: 2em;
-    margin: 5px;
-}
+    h3 {
+        font-size: 1.5em;
+        margin: 5px;
+    }
 
-h3 {
-    font-size: 1.5em;
-    margin: 5px;
-}
+    h4 {
+        font-size: 1.2em;
+        margin: 5px;
+    }
 
-h4 {
-    font-size: 1.2em;
-    margin: 5px;
-}
-
-p {
-    font-size: 1em;
-    margin: 5px;
-}
+    p {
+        font-size: 1em;
+        margin: 5px;
+    }
