@@ -29,6 +29,7 @@ body {
     }
 
 /** main content **/
+    /** shifts article down so it is not hidden behind the navigation bar **/
     article {
         display: block;
         position: relative;
@@ -38,6 +39,7 @@ body {
     }
 
 /** footer **/
+    /** shifts footer down so it it does not overlap with the main content **/
     footer {
         display: block;
         position: relative;

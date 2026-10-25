@@ -1,11 +1,4 @@
-article {
-    display: block;
-    position: relative;
-    top: 75px;
-    margin: 5px;
-    padding: 5px;
-}
-
+/** changes photo to inline block to allow caption to sit beside it**/
 .about .photo {
     display: inline-block;
     position: relative;
