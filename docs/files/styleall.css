@@ -12,6 +12,9 @@ header {
     padding: 5px;
 }
 
+header h1, header nav a {
+    margin: 5px;
+}
 nav a:hover, nav a:visited:hover {
     Color: #ff2cff;
 }
