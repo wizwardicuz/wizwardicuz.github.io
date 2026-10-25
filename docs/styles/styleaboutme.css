@@ -6,19 +6,6 @@ article {
     padding: 5px;
 }
 
-footer {
-    display: block;
-    position: relative;
-    top: 100px;
-    background:#003532;
-}
-
-.socialmedia {
-    position: relative;
-    top:auto;
-    margin: 5px;
-}
-
 .photo {
     display: inline-block;
     position: relative;
