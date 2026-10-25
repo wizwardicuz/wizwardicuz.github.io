@@ -59,6 +59,7 @@ footer {
 .about .writing,.doctorwho,.photography,.else {
     position: relative;
     bottom: 25px;
+    margin: 10px;
 }
 
 footer h2,p,h3 {
