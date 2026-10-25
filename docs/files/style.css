@@ -26,7 +26,8 @@ article {
     display: block;
     position: relative;
     top: 75px;
-    margin: 5px;   
+    margin: 5px;
+    padding: 5px;
 }
 
 footer {
