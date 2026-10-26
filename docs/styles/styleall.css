@@ -1,16 +1,16 @@
 @font-face {
     font-family: 'Modern Gallifreyan';
-    src: url('/fonts/Modern_Gallifreyan.woff2') format('woff2');
-    src: url('/fonts/Modern_Gallifreyan.woff') format('woff');
-    src: url('/fonts/Modern_Gallifreyan.ttf') format('truetype');
-    src: url('/fonts/Modern_Gallifreyan.otf') format('opentype');
+    src: url('/fonts/Modern_Gallifreyan.woff2') format('woff2'),
+        url('/fonts/Modern_Gallifreyan.woff') format('woff'),
+        url('/fonts/Modern_Gallifreyan.ttf') format('truetype'),
+        url('/fonts/Modern_Gallifreyan.otf') format('opentype');
 }
 @font-face {
     font-family: 'Old High Gallifreyan';
-    src: url('/fonts/OGH.woff2') format('woff2');
-    src: url('/fonts/OGH.woff') format('woff');
-    src: url('/fonts/OGH.ttf') format('truetype');
-    src: url('/fonts/Old_High_Gallifreyan.otf') format('opentype');
+    src: url('/fonts/OGH.woff2') format('woff2'),
+        url('/fonts/OGH.woff') format('woff'),
+        url('/fonts/OGH.ttf') format('truetype'),
+        url('/fonts/Old_High_Gallifreyan.otf') format('opentype');
 }
 
 body {
@@ -35,12 +35,12 @@ body {
 /** links **/
     /** colour of links when hovered over **/
     a[href]:hover, a[href]:visited:hover {
-        Color: #ff2cff;
+        color: #ff2cff;
     }
 
     /** colour of links when visited **/
     a[href]:visited {
-        Color: #00445f;
+        color: #00445f;
     }
 
 /** main content **/
