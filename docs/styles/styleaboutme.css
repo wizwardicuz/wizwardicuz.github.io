@@ -1,5 +1,5 @@
 /** changes photo to inline block to allow caption to sit beside it**/
-.about .photo {
+.about.photo {
     display: inline-block;
     position: relative;
     border: 2px solid #bb88ff;
@@ -7,7 +7,7 @@
 }
 
 /** puts caption beside photo **/
-.about .caption {
+.about.caption {
     display: inline-block;
     position: relative;
     bottom: 26px;
@@ -16,7 +16,10 @@
 }
 
 /** shifts the lower four sections up **/
-.about .writing,.doctorwho,.photography,.else {
+.about.writing,
+.about.doctorwho,
+.about.photography,
+.about.else {
     position: relative;
     bottom: 25px;
     margin: 5px;
