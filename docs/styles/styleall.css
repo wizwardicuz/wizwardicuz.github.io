@@ -33,6 +33,11 @@ body {
     }
 
 /** links **/
+    /** colour of links when unvisited **/
+    a[href] {
+        color: #ffdeff;
+    }
+
     /** colour of links when hovered over **/
     a[href]:hover, a[href]:visited:hover {
         color: #ff2cff;

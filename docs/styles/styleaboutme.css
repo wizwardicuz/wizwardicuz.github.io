@@ -1,18 +1,20 @@
 /** changes photo to inline block to allow caption to sit beside it**/
 .aboutme-photo {
-    display: inline-block;
     position: relative;
     border: 2px solid #bb88ff;
-    margin: 5px;
     height: 196px;
     width: 128px;
 }
 
 /** puts caption beside photo **/
-.aboutme-caption {
+.aboutme-caption, .aboutme-photo {
     display: inline-block;
     position: relative;
+    vertical-align: top;
     margin: 5px;
+}
+
+.aboutme-caption {
     max-width: 400px;
 }
 
