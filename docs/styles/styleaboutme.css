@@ -13,12 +13,9 @@
     display: inline-block;
     position: relative;
     margin: 5px;
+    max-width: 400px;
 }
 
 p {
-    max-width:500px;
-}
-
-.aboutme-caption {
-    max-width: 400px;
+    max-width: 500px;
 }
