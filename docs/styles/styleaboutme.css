@@ -22,3 +22,7 @@
     bottom: 25px;
     margin: 5px;
 }
+
+p{
+    max-width:500px;
+}
