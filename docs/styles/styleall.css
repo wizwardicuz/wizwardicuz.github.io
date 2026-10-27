@@ -68,14 +68,14 @@ body {
         margin: 5px;
     }
 
-    .social-icon {
-        display: inline-block;
-        position: relative;
+    .links {
+        font-size: 1em;
         margin: 5px;
     }
 
-    footer h3 {
-        font-size: 1.2em;
+    .social-icon {
+        display: inline-block;
+        position: relative;
         margin: 5px;
     }
 
