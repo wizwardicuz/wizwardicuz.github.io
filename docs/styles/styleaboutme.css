@@ -23,6 +23,7 @@
     margin: 5px;
 }
 
-p{
+p, 
+figcaption {
     max-width:500px;
 }
