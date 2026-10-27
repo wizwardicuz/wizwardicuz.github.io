@@ -36,17 +36,17 @@ body {
     /** general links **/
     /** colour of links when unvisited **/
     a[href] {
-        color: #847ee0;
+        color: #c0bbff;
     }
 
     /** colour of links when hovered over **/
     a[href]:hover, a[href]:visited:hover {
-        color: #00158b;
+        color: #0026ff;
     }
 
     /** colour of links when visited **/
     a[href]:visited {
-        color: #0a0041;
+        color: #1b00b1;
     }
     /** nav bar links **/
     /** colour of links when unvisited **/
@@ -61,7 +61,7 @@ body {
 
     /** colour of links when visited **/
     nav a[href]:visited {
-        color: #003a3a;
+        color: #007777;
     }
     /** footer links **/
 
