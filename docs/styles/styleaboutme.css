@@ -13,15 +13,6 @@
     margin: 5px;
 }
 
-/** shifts the lower four sections up **/
-.about.writing,
-.about.doctorwho,
-.about.photography,
-.about.else {
-    position: relative;
-    margin: 5px;
-}
-
 p, 
 figcaption {
     max-width:500px;
