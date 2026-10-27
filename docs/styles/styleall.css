@@ -46,7 +46,7 @@ body {
 
     /** colour of links when visited **/
     nav a[href]:visited {
-        color: #25004e;
+        color: #003a3a;
     }
 
     /** general links **/
@@ -80,7 +80,7 @@ body {
     footer {
         display: block;
         position: relative;
-        background:#003532;
+        background:#005555;
     }
 
     .socialmedia {
