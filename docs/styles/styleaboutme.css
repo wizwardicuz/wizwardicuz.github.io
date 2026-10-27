@@ -4,6 +4,8 @@
     position: relative;
     border: 2px solid #bb88ff;
     margin: 5px;
+    height: 196px;
+    width: 128px;
 }
 
 /** puts caption beside photo **/
