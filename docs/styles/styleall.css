@@ -33,22 +33,6 @@ body {
     }
 
 /** links **/
-    /** nav bar links **/
-    /** colour of links when unvisited **/
-    nav a[href] {
-        color: #ffdeff;
-    }
-
-    /** colour of links when hovered over **/
-    nav a[href]:hover, a[href]:visited:hover {
-        color: #df00df;
-    }
-
-    /** colour of links when visited **/
-    nav a[href]:visited {
-        color: #003a3a;
-    }
-
     /** general links **/
     /** colour of links when unvisited **/
     a[href] {
@@ -63,6 +47,21 @@ body {
     /** colour of links when visited **/
     a[href]:visited {
         color: #0a0041;
+    }
+    /** nav bar links **/
+    /** colour of links when unvisited **/
+    nav a[href] {
+        color: #ffdeff;
+    }
+
+    /** colour of links when hovered over **/
+    nav a[href]:hover, a[href]:visited:hover {
+        color: #df00df;
+    }
+
+    /** colour of links when visited **/
+    nav a[href]:visited {
+        color: #003a3a;
     }
     /** footer links **/
 
