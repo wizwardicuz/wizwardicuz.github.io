@@ -68,7 +68,7 @@ body {
 
 /** main content **/
     /** shifts article down so it is not hidden behind the navigation bar **/
-    article {
+    main {
         display: block;
         position: relative;
         margin-top: 100px;
