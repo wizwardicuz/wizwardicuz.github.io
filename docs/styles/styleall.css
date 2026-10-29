@@ -5,6 +5,7 @@
         url('/fonts/Modern_Gallifreyan.ttf') format('truetype'),
         url('/fonts/Modern_Gallifreyan.otf') format('opentype');
 }
+
 @font-face {
     font-family: 'Old High Gallifreyan';
     src: url('/fonts/OGH.woff2') format('woff2'),
@@ -41,7 +42,7 @@ body {
 
     /** colour of links when hovered over **/
     a[href]:hover, a[href]:visited:hover {
-        color: #0026ff;
+        color: #1c2e96;
     }
 
     /** colour of links when visited **/
