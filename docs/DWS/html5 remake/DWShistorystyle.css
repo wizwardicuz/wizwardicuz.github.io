@@ -6,11 +6,11 @@ p {
     margin-top: 0px;
 }
 
-.update-warning {
+.update-warning, .s16, .s18 {
     margin-top: 13px;
     margin-bottom: 13px;
 }
- .original, .s15, .s16, .s18 {
+ .original, .s15 {
     margin-top: 16px;
     margin-bottom: 16px;
 }
