@@ -13,6 +13,12 @@
     padding: 0px;
 }
 
-.disclaimer {
+p.disclaimer {
     max-width: 600px;
+}
+
+footer p a img {
+    width: 520px;
+    height: 213px;
+    border: 0px;
 }
