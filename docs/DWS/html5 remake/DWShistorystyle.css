@@ -1,0 +1,12 @@
+p.titleBold {
+    margin-bottom: 0px;
+}
+
+p {
+    margin-top: 0px;
+}
+
+.original, .s15, .s16, .s18 {
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
