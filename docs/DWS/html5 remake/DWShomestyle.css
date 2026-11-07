@@ -6,9 +6,13 @@
 .factory-image {
     width: 395px;
     height: 368px;
-    float: right;
+    float: left;
     position: relative;
     baseline-shift: top;
     margin: 0px;
     padding: 0px;
+}
+
+.disclaimer {
+    max-width: 600px;
 }
