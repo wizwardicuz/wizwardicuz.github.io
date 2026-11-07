@@ -3,10 +3,21 @@
     position: relative;
 }
 
+.column1 {
+    float: left;
+    position: relative;
+    vertical-align: top;
+    margin: 0px;
+}
+
+.column2 {
+    position: relative;
+    vertical-align: top;
+    margin: 0px;
+}
 .factory-image {
     width: 395px;
     height: 368px;
-    float: left;
     position: relative;
     baseline-shift: top;
     margin: 0px;
