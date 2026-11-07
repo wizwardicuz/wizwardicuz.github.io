@@ -1,0 +1,145 @@
+body {
+	background-image: url(pagebk.gif);
+	margin-left: 35px;
+	margin-top: 35px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+a:link {
+	color: #330033;
+}
+
+a:visited {
+	color: #330033;
+}
+
+.s2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	color: #4B0063;
+}
+
+.stylex {
+	font-weight: bold;
+}
+
+.style1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	font-style: normal;
+	color: #000000;
+}
+
+.style2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+	font-weight: bold;
+}
+
+.style3 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+	font-weight: bold;
+}
+
+.style7 {
+	color: #060;
+	font-weight: normal;
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.style8 {
+	color: #CC0000;
+	font-weight: bold;
+}
+
+.style10 {
+	color: #006600; 
+	font-weight: bold; 
+}
+
+.style11 {	
+	color: #CC0000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+}
+
+.style12 {
+	font-size: medium; 
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.style13 {	
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+	font-weight: normal;
+}
+
+.style14 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+	color: #666;
+}
+
+.style141 {	
+	color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+	color: #666;
+}
+
+.style15 {
+	color: 0;
+}
+.style151 {
+	color: 0;
+}
+
+.style16 {
+	color: #006600;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+}
+.style17 {
+	color: #CC0000;
+}
+
+.style18 {	
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+	font-weight: normal;
+}
+
+img.floatMe {
+	float: right; 
+	margin: 1ex;
+}
+
+.ital {
+	font-style: italic;
+}
+
+.red {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+	font-weight: bold;
+	color: #cc0000;
+}
+
+.grey {
+	color: #666;
+	font-size: 12px;
+	font-size: small;
+}
+
+
+
+.style1 .style14 .style7 {
+	color: #000;
+}
+.style7 .style7 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+}
