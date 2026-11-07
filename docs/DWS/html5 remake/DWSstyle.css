@@ -27,9 +27,13 @@ a:visited {
 	padding: 0px;
 }
 
+nav {
+	display: inline-block;
+	position: relative;
+}
+
 nav a img {
 	height: 20px;
-	width: auto;
 }
 
 /* textography */
