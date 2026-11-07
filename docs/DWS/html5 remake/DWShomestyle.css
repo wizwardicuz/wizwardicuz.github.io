@@ -1,0 +1,15 @@
+.text {
+    max-width: 600px;
+    display: inline-block;
+    position: relative;
+}
+
+.image {
+    width: 395px;
+    height: 368px;
+    display: inline-block;
+    position: relative;
+    baseline-shift: top;
+    margin: 0px;
+    padding: 0px;
+}

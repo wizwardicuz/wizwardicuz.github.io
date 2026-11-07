@@ -1,0 +1,169 @@
+body {
+	background-image: url(../pagebk.gif);
+	margin-left: 35px;
+	margin-top: 35px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+a:link {
+	color: #330033;
+}
+
+a:visited {
+	color: #330033;
+}
+
+
+/** paragraph text **/
+.style1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	font-style: normal;
+	color: #000000;
+}
+/** when called in s15 & s18, lacks colour code **/
+.style11 {	
+	color: #CC0000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+}
+
+/** title text **/
+.style2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+	font-weight: bold;
+}
+/** title(not bold) text **/
+.style12 {
+	font-size: medium; 
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+/** sub-title text **/
+.style3 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+	font-weight: bold;
+}
+/** sub-title(not bold) text **/
+.style13 {	
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+	font-weight: normal;
+}
+/** same as style13 **/
+.style18 {	
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+	font-weight: normal;
+}
+
+/** disclaimer text **/
+.s2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	color: #4B0063;
+}
+
+/** s12.html(only time called) **/
+.style14 {color: #000000}
+
+/** s15(not called) **/
+.style14 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+	color: #666;
+}
+/** shada(not called), colour is broken**/
+.style14 {
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size: small; 
+	color: 0; 
+}
+
+img.floatMe {
+	float: right; 
+	margin: 1ex;
+}
+
+/** why have italics with CSS when you can just do that via html? Also, only used on s18 **/
+.ital {
+	font-style: italic;
+}
+
+/** nested classes **/
+
+.style1 .style14 .style7 {
+	color: #000;
+}
+
+.style7 .style7 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+}
+/** in s12 and s18, doesn't appear to apply to anything. Nothing is this shade of green **/
+.style7 {
+	color: #060;
+	font-weight: normal;
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+/** called only in s15.html, but I don't know why. it doesn't apply to anything **/
+.style10 {
+	color: #006600; 
+	font-weight: bold; 
+}
+/** called only in s12.html, but I can't figure out why. It doesn't do anything (0 is invalid) **/ 
+.style15 {
+	color: 0;
+}
+
+/** ......... all below never called, only declared......... **/
+
+.stylex {
+	font-weight: bold;
+}
+/** invalid **/
+.style151 {
+	color: 0;
+}
+
+.red {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+	font-weight: bold;
+	color: #cc0000;
+}
+
+.style8 {
+	color: #CC0000;
+	font-weight: bold;
+}
+
+.style17 {
+	color: #CC0000;
+}
+
+.grey {
+	color: #666;
+	font-size: small;
+}
+
+.style141 {	
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+	color: #666;
+}
+/** s18 only**/
+.style141 {
+	color: #000000
+}
+
+.style16 {
+	color: #006600;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+}
