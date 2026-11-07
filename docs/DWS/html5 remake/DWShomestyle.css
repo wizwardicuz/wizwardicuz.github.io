@@ -1,13 +1,12 @@
 .text {
     max-width: 600px;
-    display: inline-block;
     position: relative;
 }
 
-.image {
+.factory-image {
     width: 395px;
     height: 368px;
-    display: inline-block;
+    float: right;
     position: relative;
     baseline-shift: top;
     margin: 0px;
