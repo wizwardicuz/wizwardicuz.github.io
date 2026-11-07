@@ -1,8 +1,10 @@
-.text {
+/** makes text and disclaimer text the same width **/
+.text , p.disclaimer {
     max-width: 600px;
     position: relative;
 }
 
+/** floats text so that image can sit beside it **/
 .column1 {
     float: left;
     position: relative;
@@ -15,6 +17,7 @@
     vertical-align: top;
     margin: 0px;
 }
+
 .factory-image {
     width: 395px;
     height: 368px;
@@ -22,10 +25,6 @@
     baseline-shift: top;
     margin: 0px;
     padding: 0px;
-}
-
-p.disclaimer {
-    max-width: 600px;
 }
 
 footer p a img {
