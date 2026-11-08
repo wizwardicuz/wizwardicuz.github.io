@@ -45,6 +45,7 @@ p {
 	font-weight: normal;
 	font-style: normal;
 	color: #000000;
+	margin-top: 13px;
 }
 .text {
 	font-family: Arial, Helvetica, sans-serif;
@@ -52,6 +53,7 @@ p {
 	font-weight: normal;
 	font-style: normal;
 	color: #000000;
+	margin-top: 13px;
 }
 /** when called in s15 & s18, lacks colour code **/
 .style11 {	
@@ -64,16 +66,19 @@ h2 {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: medium;
 	font-weight: bold;
+	margin-top: 16px;
 }
 .titleBold {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: medium;
 	font-weight: bold;
+	margin-top: 16px;
 }
 /** title(not bold) text **/
 .title {
 	font-size: medium; 
 	font-family: Arial, Helvetica, sans-serif;
+	margin-top: 16px;
 }
 
 /** sub-title text **/
@@ -81,18 +86,20 @@ h3 {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: small;
 	font-weight: bold;
+	margin-top: 16px;
 }
-
 .subtitleBold {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: small;
 	font-weight: bold;
+	margin-top: 16px;
 }
 /** sub-title(not bold) text **/
 .subtitle {	
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: small;
 	font-weight: normal;
+	margin-top: 16px;
 }
 
 /** disclaimer text **/
