@@ -1,8 +1,8 @@
-.column1 {
+.column2 {
     display: inline-block;
 }
 
-.column2 {
+.column1 {
     float: right;
 }
 

@@ -105,11 +105,6 @@ p.disclaimer {
 /** s12.html(only time called) **/
 .style14 {color: #000000}
 
-img.floatMe {
-	float: right; 
-	margin: 1ex;
-}
-
 /** why have italics with CSS when you can just do that via html? Also, only used on s18 **/
 .ital {
 	font-style: italic;
