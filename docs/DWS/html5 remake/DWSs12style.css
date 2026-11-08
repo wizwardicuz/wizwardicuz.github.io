@@ -6,7 +6,7 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-p a img {
+.ignore-formatting {
     margin-top: 16px;
     margin-bottom: 16px;
 }
