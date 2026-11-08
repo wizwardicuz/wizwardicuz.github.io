@@ -1,0 +1,19 @@
+.column1 {
+    display: inline-block;
+}
+
+.column2 {
+    float: right;
+}
+
+h2, h3, h4 { margin-bottom: 0.25em; }
+h2 + p, h3 + p, h4 + p { margin-top: 0; }  /* a paragraph directly after a heading */
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
