@@ -1,5 +1,5 @@
 /** makes text and disclaimer text the same width **/
-.text , p.disclaimer {
+.overview , p.disclaimer {
     max-width: 600px;
     position: relative;
 }
