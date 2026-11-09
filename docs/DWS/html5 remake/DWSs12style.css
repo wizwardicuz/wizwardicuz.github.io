@@ -10,11 +10,6 @@ p img, a img {
     vertical-align: top;
 }
 
-p.pattern-buttons a img {
-    height: 21px;
-    width: auto;
-}
-
 .unslipped {
     width: 343px; 
     height: 190px;
@@ -43,6 +38,11 @@ p.pattern-buttons a img {
 p, .text {
     font-size: 12px;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.small-margins  {
+	margin-top: 12px;
+	margin-bottom: 12px;
 }
 
 /** makes headings and paragrapghs work like a single unit **/

@@ -1,0 +1,47 @@
+/**..................DWSs15style....................**/
+/**.........images..........**/
+/** floats images to the right **/
+.column1 img {
+    float: right;
+    margin: 1ex;
+}
+
+/** fixes baseline spacing issue **/
+p img, a img {
+    vertical-align: top;
+}
+
+.s15end {
+    width: 308px; 
+    height: 159px;
+}
+
+/** makes headings and paragrapghs work like a single unit **/
+h2, h3, h4 { margin-bottom: 0em; }
+h2 + p, h3 + p, h4 + p { margin-top: 0; }  /* a paragraph directly after a heading */
+
+
+/**..........tables..........**/
+.yarn-table {
+    width: 600px;
+    border-spacing: 0px;
+}
+/* 15/134 15/127*/
+.color-rec {
+    padding: 5px;
+    width: 11%; 
+    height: 131px; 
+    vertical-align: top;
+}
+/* 37% 25%*/
+.brand {
+    padding: 5px;
+    width: 31%; 
+    vertical-align: top;
+}
+/* 48% 60%*/
+.yarn-code {
+    padding: 5px;
+    width: 54%;
+    vertical-align: top;
+}

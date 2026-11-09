@@ -120,8 +120,8 @@ p.disclaimer {
 .large-margins > :last-child  { margin-bottom: 0; }
 
 .small-margins  {
-	margin-top: 12px;
-	margin-bottom: 12px;
+	margin-top: 13px;
+	margin-bottom: 13px;
 }
 
 .small-margins > :first-child { margin-top: 0; }
@@ -135,4 +135,9 @@ p.disclaimer {
   overflow: hidden;
   clip-path: inset(50%);
   white-space: nowrap;
+}
+
+p.pattern-buttons a img {
+    height: 21px;
+    width: auto;
 }
