@@ -1,25 +1,95 @@
+/**.................... DWSs12style.css - CSS for s12page of DWS site ....................**/
+/**.......Images........**/
+/** floats images to the right **/
 .column1 img {
     float: right;
     margin: 1ex;
 }
-
+/** fixes baseline spacing issue **/
 p img, a img {
     vertical-align: top;
 }
 
+p.pattern-buttons a img {
+    height: 21px;
+    width: auto;
+}
+
+.unslipped {
+    width: 343px; 
+    height: 190px;
+}
+
+.dkvworsted {
+    width: 338px; 
+    height: 159px;
+}
+
+.compare {
+    width: 343px; 
+    height: 380px;
+}
+
+.comparison {
+    width: 100px; 
+    height: 90px;
+}
+.pantone {
+    width: 480px; 
+    height: 86px;
+}
+/**........textography........**/
+/** paragraph text **/
 p, .text {
     font-size: 12px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
+/** makes headings and paragrapghs work like a single unit **/
 h2, h3, h4 { margin-bottom: 0em; }
 h2 + p, h3 + p, h4 + p { margin-top: 0; }  /* a paragraph directly after a heading */
 
-.visually-hidden {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  overflow: hidden;
-  clip-path: inset(50%);
-  white-space: nowrap;
+/**........tables........**/
+/** cellspacing="0" cellpadding="5" **/
+/** cellpadding on table elements 	'padding' on the table's td and th
+    cellspacing on table elements 	'border-spacing' on table            **/
+.yarn-table {
+    width: 600px;
+    border-spacing: 0px;
+}
+
+.color-rec {
+    padding: 5px;
+    width: 11%; 
+    height: 129px; 
+    vertical-align: top;
+}
+
+.brand {
+    padding: 5px;
+    width: 39%; 
+    vertical-align: top;
+}
+
+.yarn-code {
+    padding: 5px;
+    width: 50%;
+    vertical-align: top;
+}
+
+/** pantone table**/
+/* cellspacing="0" cellpadding="5" */
+.pantone-table{
+    width: 336px;
+    border-spacing: 0px; 
+}
+.pantone-color {
+    padding: 5px;
+    width: 21%; 
+    height: 124px;
+}
+
+.pantone-code {
+    padding: 5px;
+    width: 79%;
 }
