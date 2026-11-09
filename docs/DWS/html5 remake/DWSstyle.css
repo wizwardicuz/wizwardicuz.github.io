@@ -110,3 +110,13 @@ p.disclaimer {
 .ital {
 	font-style: italic;
 }
+
+.large-margins {
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+.small-margins  {
+	margin-top: 12px;
+	margin-bottom: 12px;
+}

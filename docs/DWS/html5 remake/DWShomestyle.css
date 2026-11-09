@@ -2,7 +2,6 @@ nav a img {
 	height: 21px;
 }
 
-
 /** makes text and disclaimer text the same width **/
 .overview , p.disclaimer {
     max-width: 600px;
