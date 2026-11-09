@@ -7,19 +7,9 @@ a img {
     vertical-align: top;
 }
 
-.small-margins {
-    margin-top: 12px;
-    margin-bottom: 12px;
-}
-
 p, .text {
     font-size: 12px;
     font-family: Arial, Helvetica, sans-serif;
-}
-
-.ignore-formatting {
-    margin-top: 16px;
-    margin-bottom: 16px;
 }
 
 h2, h3, h4 { margin-bottom: 0em; }
