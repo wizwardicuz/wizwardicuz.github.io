@@ -31,12 +31,6 @@ h2, h3, h4 { margin-bottom: 0em; }
 h2 + p, h3 + p, h4 + p { margin-top: 0; }  /* a paragraph directly after a heading */
 
 /**..........tables..........**/
-/* border="0" cellspacing="0" cellpadding="5" */
-.behr table {
-    width: 336px;
-}
-/* width="21%" height="62" */
-
 th, .table-text {
     font-family: Arial, Helvetica, sans-serif;
 	font-size: 13px;
@@ -45,6 +39,25 @@ th, .table-text {
 	color: #000000;
     margin-top: 0px;
     margin-bottom: 0px;
+}
+
+/* border="0" cellspacing="0" cellpadding="5" */
+.behr-table {
+    width: 336px;
+    height: 45px;
+    padding: 9.5px 0px;
+}
+
+.behr-color {
+    width: 21%; 
+    vertical-align: top;
+    padding: 0px;
+}
+
+.behr-code {
+    width: 79%; 
+    vertical-align: top;
+    padding: 0px;
 }
 
 .casco-table {
@@ -74,8 +87,9 @@ th, .table-text {
 
 .yarn-table {
     width: 600px;
-    height: 129px;
+    height: 79px;
     border-spacing: 0px;
+    padding-bottom: 50px;
 }
 
 .color-rec {
