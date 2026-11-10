@@ -106,10 +106,9 @@ p.disclaimer {
 	color: #4B0063;
 }
 
-/** why have italics with CSS when you can just do that via html? Also, only used on s18 **/
-.ital {
-	font-style: italic;
-}
+/** makes headings and paragrapghs work like a single unit **/
+h2, h3, h4 { margin-bottom: 0em; }
+h2 + p, h3 + p, h4 + p { margin-top: 0; }  /* a paragraph directly after a heading */
 
 /** determines margins **/
 .large-margins {
