@@ -8,26 +8,23 @@
 
 
 
-.yarn-table {
+.casco-table {
     width: 600px;
+    height: 64px;
     border-spacing: 0px;
 }
 
-.color-rec {
-    padding: 5px;
+.casco-rec {
     width: 11%; 
-    height: 129px; 
     vertical-align: top;
 }
 
-.brand {
-    padding: 5px;
-    width: 39%; 
+.code {
+    width: 23%; 
     vertical-align: top;
 }
 
-.yarn-code {
-    padding: 5px;
-    width: 50%;
+.comment {
+    width: 66%;
     vertical-align: top;
 }
