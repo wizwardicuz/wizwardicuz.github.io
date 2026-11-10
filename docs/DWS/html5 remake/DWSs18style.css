@@ -57,14 +57,17 @@ h2 + p, h3 + p, h4 + p { margin-top: 0; }  /* a paragraph directly after a headi
 .casco-rec {
     width: 11%; 
     vertical-align: top;
+    padding: 0px;
 }
 
 .code {
     width: 23%; 
     vertical-align: top;
+    padding: 0px;
 }
 
 .comment {
     width: 66%;
     vertical-align: top;
+    padding: 0px;
 }
