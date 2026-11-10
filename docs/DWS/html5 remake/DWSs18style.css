@@ -5,3 +5,29 @@
     width: 336px;
 }
 /* width="21%" height="62" */
+
+
+
+.yarn-table {
+    width: 600px;
+    border-spacing: 0px;
+}
+
+.color-rec {
+    padding: 5px;
+    width: 11%; 
+    height: 129px; 
+    vertical-align: top;
+}
+
+.brand {
+    padding: 5px;
+    width: 39%; 
+    vertical-align: top;
+}
+
+.yarn-code {
+    padding: 5px;
+    width: 50%;
+    vertical-align: top;
+}
