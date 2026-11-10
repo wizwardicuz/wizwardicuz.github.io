@@ -141,3 +141,8 @@ p.pattern-buttons a img {
     height: 21px;
     width: auto;
 }
+
+/** fixes baseline spacing issue **/
+p img, a img {
+    vertical-align: top;
+}
