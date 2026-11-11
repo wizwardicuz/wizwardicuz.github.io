@@ -6,6 +6,7 @@
     vertical-align: top;
     margin-top: 16px;
     margin-right: 6px;
+    margin-left: 12px;
 }
 
 .column2 {
@@ -29,7 +30,6 @@ div p {
 }
 
 /**...........images..........**/
-
 .today {
     width: 376px; 
     height: 512px;
