@@ -1,0 +1,20 @@
+/**.................... DWShistorystyle.css - CSS for history page of Doctor Who Scarf site ....................**/
+/**..........images..........**/
+
+p.titleBold {
+    margin-bottom: 0px;
+}
+
+p {
+    margin-top: 0px;
+}
+
+.update-warning, .s16, .s18 {
+    margin-top: 13px;
+    margin-bottom: 13px;
+}
+
+ .original, .s15 {
+    margin-top: 16px;
+    margin-bottom: 16px;
+}

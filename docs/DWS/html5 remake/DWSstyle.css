@@ -1,0 +1,142 @@
+/**.................... DWSstyle.css - CSS for Doctor Who Scarf site ....................**/
+/*body background image */
+body {
+	background-image: url(../pagebk.gif);
+	margin-left: 35px;
+	margin-top: 35px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+/* links */
+a:link {
+	color: #330033;
+}
+
+a:visited {
+	color: #330033;
+}
+
+/* header */
+.header-image {
+	display: block;
+	position: relative;
+	width: 533px;
+	height: 35px;
+	margin: 0px;
+	margin-bottom: 18px;
+	padding: 0px;
+}
+
+header {
+	width: 600px;
+	display: inline-block;
+	position: relative;
+}
+
+nav a img {
+	height: 20px;
+	width: auto;
+}
+
+/* textography */
+/** paragraph text **/
+p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: normal;
+	font-style: normal;
+	color: #000000;
+}
+.text {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: normal;
+	font-style: normal;
+	color: #000000;
+}
+
+/** title text **/
+h2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+	font-weight: bold;
+
+}
+.titleBold {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+	font-weight: bold;
+	margin: 0px;
+}
+/** title(not bold) text **/
+.title {
+	font-size: medium; 
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	margin: 0px;
+}
+
+/** sub-title text **/
+h3 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+	font-weight: bold;
+}
+.subtitleBold {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+	font-weight: bold;
+}
+/** sub-title(not bold) text **/
+.subtitle {	
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+	font-weight: normal;
+}
+
+/** disclaimer text **/
+p.disclaimer {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	color: #4B0063;
+}
+
+/** makes headings and paragrapghs work like a single unit **/
+h2, h3, h4 { margin-bottom: 0em; }
+h2 + p, h3 + p, h4 + p { margin-top: 0; }  /* a paragraph directly after a heading */
+
+/** determines margins **/
+.large-margins {
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+.large-margins > :first-child { margin-top: 0; }
+.large-margins > :last-child  { margin-bottom: 0; }
+
+.small-margins  {
+	margin-top: 13px;
+	margin-bottom: 13px;
+}
+
+.small-margins > :first-child { margin-top: 0; }
+.small-margins > :last-child  { margin-bottom: 0; }
+
+/** hides changes that have not been approved yet **/
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+p.pattern-buttons a img {
+    height: 21px;
+    width: auto;
+}
+
+/** fixes baseline spacing issue **/
+p img, a img , nav a img {
+    vertical-align: top;
+}

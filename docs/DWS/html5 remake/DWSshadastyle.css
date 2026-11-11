@@ -1,0 +1,19 @@
+/**....................DWSshadastyle.css for 16/17/shada page on DWS site....................**/
+/** floats images to the right **/
+.column1 img {
+    float: right;
+    margin: 1ex;
+}
+  
+/** shada scarf images **/
+.shada-small {
+    height: 57px;
+    width: 100px;
+    border: 1px solid;
+}
+
+/** romana images **/
+.romana {
+    width: 248px; 
+    height: 169px;
+}
