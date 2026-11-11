@@ -3,12 +3,14 @@
 .column1 {
     width: 376px;
     display:inline-block;
+    margin-right: 12px;
 }
 
 .column2 {
     width: 432px;
     display:inline-block;
     vertical-align: top;
+    margin-left: 12px;
 }
 
 .cell {
