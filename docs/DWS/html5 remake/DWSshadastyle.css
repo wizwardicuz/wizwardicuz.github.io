@@ -9,8 +9,9 @@
 .shada-small {
     height: 57px;
     width: 100px;
-    border: 1px;
+    border: 1px solid;
 }
+
 /** romana images **/
 .romana {
     width: 248px; 
