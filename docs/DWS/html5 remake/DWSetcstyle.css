@@ -29,6 +29,10 @@ div p {
     margin-bottom: 50px;
 }
 
+.extras {
+    font-size: 0px;
+}
+
 /**...........images..........**/
 .today {
     width: 376px; 
