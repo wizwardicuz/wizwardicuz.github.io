@@ -2,10 +2,13 @@
 /**........ layout..........**/
 .column1 {
     width: 376 px;
+    display:inline-block;
 }
 
 .column2 {
     width: 432px;
+    display:inline-block;
+    vertical-align: top;
 }
 
 .cell {
