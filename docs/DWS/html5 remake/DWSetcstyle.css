@@ -3,24 +3,26 @@
 .column1 {
     width: 376px;
     display:inline-block;
-    margin-right: 12px;
+    vertical-align: top;
+    margin-right: 6px;
 }
 
 .column2 {
     width: 432px;
     display:inline-block;
     vertical-align: top;
-    margin-left: 12px;
+    margin-left: 6px;
 }
 
-h2 {
-    vertical-align: center;
+div h2, div p {
+    text-align: center;
+}
+
+.cell {
+    margin-bottom: 40px;
 }
 
 /**...........images..........**/
-img {
-    margin-bottom: 40px;
-}
 
 .today {
     width: 376px; 
