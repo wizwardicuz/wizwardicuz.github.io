@@ -1,0 +1,48 @@
+/**.................... DWSetcstyle.css - CSS for etc page of Doctor Who Scarf site ....................**/
+/**........ layout..........**/
+.column1 {
+    width: 376 px;
+}
+
+.column2 {
+    width: 432px;
+}
+
+.cell {
+    margin: 12px;
+}
+ 
+
+div h2, div p {
+    vertical-align: center;
+}
+
+/**...........images..........**/
+img {
+    margin-bottom: 40px;
+}
+
+.today {
+    width: 376px; 
+    height: 512px;
+}
+
+.hayfield {
+    width: 376px; 
+    height: 512px;
+}
+
+.whatscarf {
+    width: 432px; 
+    height: 333px;
+}
+
+.scarf1987 {
+    width: 374px;
+    height: 357px;
+}
+
+.strada {
+    width: 375px; 
+    height: 210px;
+}
