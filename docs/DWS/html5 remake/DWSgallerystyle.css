@@ -1,0 +1,61 @@
+/**.................... DWSgallerystyle.css - CSS for gallery page of Doctor Who Scarf site ....................**/
+/**..........images..........**/
+.deluxedeupe {
+    width: 192px;
+    height: 150px;
+    border: 1px solid;
+}
+
+.shadadone {
+    width: 150px;
+    height: 282px;
+    border: 1px solid;
+}
+
+.tardis1 {
+    width: 150px;
+    height: 215px;
+    border: 1px solid;
+}
+
+.kris-miller-125 {
+    width: 169;
+    height: 150px; 
+    border: 1px solid;
+}
+
+.luoise-bob {
+    width: 189px; 
+    height: 150px; 
+    border: 1px solid;
+}
+
+.bonnie {
+    width: 206px; 
+    height: 150px;
+    border: 1px solid;
+}
+
+.bobuk {
+    width: 150px; 
+    height: 200px;
+    border: 1px solid;
+}
+
+.swansonscarf {
+    width: 150px; 
+    height: 217px; 
+    border: 1px solid;
+}
+
+.tombob {
+    width: 229px; 
+    height: 150px; 
+    border: 1px solid;
+}
+
+.timelord-kris {
+    width: 150px; 
+    height: 275px; 
+    border: 1px solid;
+}
