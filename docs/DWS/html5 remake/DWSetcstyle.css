@@ -4,6 +4,7 @@
     width: 376px;
     display:inline-block;
     vertical-align: top;
+    margin-top: 16px;
     margin-right: 6px;
 }
 
@@ -11,11 +12,16 @@
     width: 432px;
     display:inline-block;
     vertical-align: top;
+    margin-top: 16px;
     margin-left: 6px;
 }
 
-div h2, div p {
+div h2{
     text-align: center;
+}
+
+div p {
+    text-align: left;
 }
 
 .cell {
