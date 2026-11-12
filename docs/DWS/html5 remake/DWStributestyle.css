@@ -46,7 +46,9 @@ figcaption {
 }
 
 .tribute-text {
+    display: inline;
     margin: 0px 12px;
-    max-width: 1100px;
-    position: relative;
+    max-width: 900px;
+    min-width: 300px;
+    vertical-align: top;
 }
