@@ -6,6 +6,10 @@
     margin: 1ex;
 }
 
+.shada {
+    width: 326px;
+}
+
 .chris-shada {
     width: 326px;
     height: 480px;
@@ -23,6 +27,10 @@
     width: 240px;
     height: 282px;
     margin: 1ex;
+}
+
+.DWS {
+    float: left;
 }
 
 .text {
