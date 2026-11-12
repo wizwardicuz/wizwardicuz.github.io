@@ -1,7 +1,7 @@
 /**.................... DWStributestyle.css - CSS for  tips page of DWS site ....................**/
 /**.......Images........**/
 /** floats images to the right **/
-.column1 img {
+.column1 figure {
     float: right;
     margin: 1ex;
 }
