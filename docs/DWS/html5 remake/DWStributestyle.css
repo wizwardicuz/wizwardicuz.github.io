@@ -4,10 +4,12 @@
 .column1 figure {
     float: right;
     margin: 1ex;
+    margin-left: 16px;
 }
 
 .column3 {
     float: left;
+    margin-right: 16px;
 }
 
 main img {
