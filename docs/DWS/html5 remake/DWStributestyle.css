@@ -6,6 +6,10 @@
     margin: 1ex;
 }
 
+.column3 {
+    float: left;
+}
+
 main img {
     border: 1px solid #330033;
 }
@@ -27,6 +31,7 @@ figcaption {
     width: 240px;
     float: left;
     margin: 1ex;
+    vertical-align: top;
 }
 
 .DWS2005 {
@@ -37,11 +42,14 @@ figcaption {
 .DWS {
     width: 300px;
     margin: 1ex;
+    vertical-align: bottom;
 }
 
 .tribute-text {
     display: inline-block;
-    margin: 0px 16px;
+    margin: 0px 0px;
     vertical-align: top;
     max-width: 1100px;
+    position: relative;
+    right: 50px;
 }
