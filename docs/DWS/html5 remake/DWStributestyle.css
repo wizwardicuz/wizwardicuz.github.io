@@ -24,16 +24,18 @@
 
 .DWS2005 {
     float: left;
-    width: 240px;
-    height: 282px;
+    width: 300px;
+    height: 352px;
     margin: 1ex;
 }
 
 .DWS {
     float: left;
+    width: 300px;
+    margin: 1ex;
 }
 
-.text {
+.tribute-text {
     display: inline-block;
     margin: 0px 16px;
     vertical-align: top;
