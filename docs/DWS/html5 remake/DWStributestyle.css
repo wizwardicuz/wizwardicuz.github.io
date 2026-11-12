@@ -14,8 +14,10 @@
 .headshot {
     height: 240px;
     width: 240px;
+    float: left;
+    margin: 1ex;
 }
 
 .text {
-    display: inline-block;
+    display: block;
 }
