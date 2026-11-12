@@ -10,6 +10,9 @@ main img {
     border: 1px solid #330033;
 }
 
+figcaption {
+    text-align: center;
+}
 .shada {
     width: 326px;
 }
