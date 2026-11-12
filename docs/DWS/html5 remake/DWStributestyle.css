@@ -6,6 +6,10 @@
     margin: 1ex;
 }
 
+img {
+    border: 1px solid #330033;
+}
+
 .shada {
     width: 326px;
 }
